@@ -1,3 +1,8 @@
+
+ChatXpress is a messaging application that can be used to send and receive texts , images etc . It is fast , secure and easy to use .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
